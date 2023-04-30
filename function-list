@@ -1,0 +1,25 @@
+GO FUNCTIONS
+
+
+BASIC-FUNCTION
+1. init function
+2. function with parameters
+3. function with return value
+4. function with multiple return value
+5. function with naming return value
+6. function with variadic parameters
+7. public & private function
+8. pass-by value function
+9. pass-by reference function
+10. defer keyword
+
+RECEIVER-FUNCTION
+11. value-based receiver function
+12. pointer-based receiver function
+
+ANONYMOUS FUNCTION
+13. function as parameter
+14. return function from function
+15. stateful function
+16. generic function
+
